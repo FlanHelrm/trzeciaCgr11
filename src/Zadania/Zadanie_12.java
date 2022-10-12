@@ -7,8 +7,7 @@ public class Zadanie_12 {
         Scanner klawiatura = new Scanner(System.in);
 
         int cookie_box = 40;
-        int porcja = ;
+        int porcja;
         int cookie;
-        //cdn
     }
 }
